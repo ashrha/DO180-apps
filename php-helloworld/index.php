@@ -1,3 +1,3 @@
 <?php
-print "Abid and Aqib are my sons. "\n";
+print "Abid and Aqib are my sons. \n";
 ?>
